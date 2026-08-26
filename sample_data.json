@@ -1,0 +1,836 @@
+{
+  "match": {
+    "id": "WI-SL-1T-2026",
+    "title": "West Indies vs Sri Lanka \u2014 1st Test",
+    "venue": "Sir Vivian Richards Stadium, North Sound Antigua",
+    "dates": "25\u201328 June 2026",
+    "result": "West Indies won by an innings and 217 runs",
+    "series": "West Indies lead 1\u20130",
+    "toss": "West Indies elected to field first"
+  },
+  "innings": [
+    {
+      "number": 1,
+      "team": "Sri Lanka",
+      "score": 308,
+      "wickets": 10,
+      "overs": 71.5
+    },
+    {
+      "number": 2,
+      "team": "West Indies",
+      "score": 626,
+      "wickets": 9,
+      "overs": 160.5,
+      "declared": true
+    },
+    {
+      "number": 3,
+      "team": "Sri Lanka",
+      "score": 101,
+      "wickets": 10,
+      "overs": 31.2
+    }
+  ],
+  "sessions": [
+    {
+      "day": 1,
+      "session": 1,
+      "runs": 109,
+      "wickets": 3,
+      "overs": "24.1"
+    },
+    {
+      "day": 1,
+      "session": 2,
+      "runs": 95,
+      "wickets": 2,
+      "overs": "24.2"
+    },
+    {
+      "day": 1,
+      "session": 3,
+      "runs": 104,
+      "wickets": 5,
+      "overs": "24.2"
+    },
+    {
+      "day": 2,
+      "session": 1,
+      "runs": 103,
+      "wickets": 3,
+      "overs": "28.3"
+    },
+    {
+      "day": 2,
+      "session": 2,
+      "runs": 71,
+      "wickets": 2,
+      "overs": "28.0"
+    },
+    {
+      "day": 2,
+      "session": 3,
+      "runs": 97,
+      "wickets": 0,
+      "overs": "28.3"
+    },
+    {
+      "day": 3,
+      "session": 1,
+      "runs": 15,
+      "wickets": 1,
+      "overs": "4.2"
+    },
+    {
+      "day": 3,
+      "session": 2,
+      "runs": 82,
+      "wickets": 0,
+      "overs": "24.1"
+    },
+    {
+      "day": 3,
+      "session": 3,
+      "runs": 273,
+      "wickets": 4,
+      "overs": "53.1"
+    },
+    {
+      "day": 4,
+      "session": 1,
+      "runs": 30,
+      "wickets": 2,
+      "overs": "10.2"
+    },
+    {
+      "day": 4,
+      "session": 2,
+      "runs": 30,
+      "wickets": 3,
+      "overs": "9.0"
+    },
+    {
+      "day": 4,
+      "session": 3,
+      "runs": 26,
+      "wickets": 4,
+      "overs": "8.3"
+    }
+  ],
+  "batting": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "DM de Silva",
+      "runs": 120,
+      "balls": 168,
+      "fours": 17,
+      "sixes": 0,
+      "sr": 71.4
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "LD Chandimal",
+      "runs": 54,
+      "balls": 67,
+      "fours": 8,
+      "sixes": 0,
+      "sr": 80.6
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "GS Dinusha",
+      "runs": 43,
+      "balls": 75,
+      "fours": 6,
+      "sixes": 0,
+      "sr": 56.6
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "RMMP Rathnayake",
+      "runs": 27,
+      "balls": 52,
+      "fours": 3,
+      "sixes": 0,
+      "sr": 50.9
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "KNM Fernando",
+      "runs": 23,
+      "balls": 27,
+      "fours": 3,
+      "sixes": 1,
+      "sr": 85.2
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "Lahiru Kumara",
+      "runs": 12,
+      "balls": 14,
+      "fours": 2,
+      "sixes": 0,
+      "sr": 85.7
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "CAK Rajitha",
+      "runs": 8,
+      "balls": 18,
+      "fours": 1,
+      "sixes": 0,
+      "sr": 44.4
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "P Nissanka",
+      "runs": 2,
+      "balls": 6,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 33.3
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "AM Fernando",
+      "runs": 0,
+      "balls": 3,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 0.0
+    },
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "player": "BKG Mendis",
+      "runs": 0,
+      "balls": 4,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 0.0
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "AA Jangoo",
+      "runs": 233,
+      "balls": 373,
+      "fours": 19,
+      "sixes": 3,
+      "sr": 62.0
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "RL Chase",
+      "runs": 194,
+      "balls": 324,
+      "fours": 13,
+      "sixes": 2,
+      "sr": 59.5
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "JD Campbell",
+      "runs": 39,
+      "balls": 64,
+      "fours": 3,
+      "sixes": 2,
+      "sr": 60.9
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "BA King",
+      "runs": 31,
+      "balls": 52,
+      "fours": 4,
+      "sixes": 0,
+      "sr": 59.6
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "AS Joseph",
+      "runs": 21,
+      "balls": 20,
+      "fours": 1,
+      "sixes": 2,
+      "sr": 105.0
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "J Da Silva",
+      "runs": 20,
+      "balls": 56,
+      "fours": 2,
+      "sixes": 0,
+      "sr": 35.7
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "S Joseph",
+      "runs": 17,
+      "balls": 21,
+      "fours": 1,
+      "sixes": 1,
+      "sr": 81.0
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "KAR Hodge",
+      "runs": 16,
+      "balls": 4,
+      "fours": 3,
+      "sixes": 0,
+      "sr": 35.6
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "JP Greaves",
+      "runs": 3,
+      "balls": 11,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 27.3
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "player": "KAJ Roach",
+      "runs": 0,
+      "balls": 3,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 0.0
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "LD Chandimal",
+      "runs": 43,
+      "balls": 60,
+      "fours": 5,
+      "sixes": 0,
+      "sr": 71.7
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "GS Dinusha",
+      "runs": 12,
+      "balls": 29,
+      "fours": 3,
+      "sixes": 0,
+      "sr": 41.4
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "PHKD Mendis",
+      "runs": 9,
+      "balls": 34,
+      "fours": 1,
+      "sixes": 0,
+      "sr": 26.5
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "Lahiru Kumara",
+      "runs": 9,
+      "balls": 7,
+      "fours": 2,
+      "sixes": 0,
+      "sr": 128.6
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "BKG Mendis",
+      "runs": 8,
+      "balls": 20,
+      "fours": 1,
+      "sixes": 0,
+      "sr": 40.0
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "CAK Rajitha",
+      "runs": 4,
+      "balls": 13,
+      "fours": 1,
+      "sixes": 0,
+      "sr": 30.8
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "P Nissanka",
+      "runs": 3,
+      "balls": 6,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 50.0
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "KNM Fernando",
+      "runs": 2,
+      "balls": 12,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 16.7
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "AM Fernando",
+      "runs": 0,
+      "balls": 2,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 0.0
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "player": "DM de Silva",
+      "runs": 0,
+      "balls": 7,
+      "fours": 0,
+      "sixes": 0,
+      "sr": 0.0
+    }
+  ],
+  "bowling": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "player": "JP Greaves",
+      "overs": 11.0,
+      "runs": 39,
+      "wickets": 3,
+      "economy": 3.49,
+      "dot_pct": 74.2
+    },
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "player": "KAJ Roach",
+      "overs": 12.0,
+      "runs": 32,
+      "wickets": 2,
+      "economy": 2.67,
+      "dot_pct": 73.6
+    },
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "player": "S Joseph",
+      "overs": 16.0,
+      "runs": 79,
+      "wickets": 2,
+      "economy": 4.94,
+      "dot_pct": 67.7
+    },
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "player": "AS Joseph",
+      "overs": 12.0,
+      "runs": 60,
+      "wickets": 2,
+      "economy": 5.0,
+      "dot_pct": 62.5
+    },
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "player": "JNT Seales",
+      "overs": 15.5,
+      "runs": 73,
+      "wickets": 1,
+      "economy": 4.61,
+      "dot_pct": 69.5
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "player": "RMMP Rathnayake",
+      "overs": 35.5,
+      "runs": 124,
+      "wickets": 5,
+      "economy": 3.46,
+      "dot_pct": 72.6
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "player": "AM Fernando",
+      "overs": 28.0,
+      "runs": 56,
+      "wickets": 2,
+      "economy": 2.0,
+      "dot_pct": 76.8
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "player": "GS Dinusha",
+      "overs": 56.0,
+      "runs": 234,
+      "wickets": 2,
+      "economy": 4.18,
+      "dot_pct": 55.4
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "player": "DM de Silva",
+      "overs": 5.0,
+      "runs": 17,
+      "wickets": 0,
+      "economy": 3.4,
+      "dot_pct": 56.7
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "player": "CAK Rajitha",
+      "overs": 26.0,
+      "runs": 102,
+      "wickets": 0,
+      "economy": 3.92,
+      "dot_pct": 69.9
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "player": "KAJ Roach",
+      "overs": 11.0,
+      "runs": 51,
+      "wickets": 4,
+      "economy": 4.64,
+      "dot_pct": 72.7
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "player": "JNT Seales",
+      "overs": 10.2,
+      "runs": 14,
+      "wickets": 3,
+      "economy": 1.35,
+      "dot_pct": 90.3
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "player": "S Joseph",
+      "overs": 5.0,
+      "runs": 19,
+      "wickets": 2,
+      "economy": 3.8,
+      "dot_pct": 70.0
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "player": "AS Joseph",
+      "overs": 5.0,
+      "runs": 11,
+      "wickets": 1,
+      "economy": 2.2,
+      "dot_pct": 83.3
+    }
+  ],
+  "partnerships": [
+    {
+      "innings": 1,
+      "pair": "DM de Silva / GS Dinusha",
+      "runs": 99,
+      "balls": 150
+    },
+    {
+      "innings": 1,
+      "pair": "DM de Silva / LD Chandimal",
+      "runs": 68,
+      "balls": 94
+    },
+    {
+      "innings": 1,
+      "pair": "DM de Silva / RMMP Rathnayake",
+      "runs": 64,
+      "balls": 85
+    },
+    {
+      "innings": 1,
+      "pair": "KNM Fernando / LD Chandimal",
+      "runs": 40,
+      "balls": 51
+    },
+    {
+      "innings": 2,
+      "pair": "AA Jangoo / RL Chase",
+      "runs": 401,
+      "balls": 603,
+      "key": true
+    },
+    {
+      "innings": 2,
+      "pair": "BA King / JD Campbell",
+      "runs": 58,
+      "balls": 81
+    },
+    {
+      "innings": 2,
+      "pair": "AA Jangoo / J Da Silva",
+      "runs": 52,
+      "balls": 108
+    },
+    {
+      "innings": 2,
+      "pair": "JD Campbell / KAR Hodge",
+      "runs": 39,
+      "balls": 73
+    },
+    {
+      "innings": 3,
+      "pair": "LD Chandimal / PHKD Mendis",
+      "runs": 27,
+      "balls": 61
+    },
+    {
+      "innings": 3,
+      "pair": "BKG Mendis / LD Chandimal",
+      "runs": 23,
+      "balls": 31
+    }
+  ],
+  "wickets": [
+    {
+      "innings": 1,
+      "ball": "0.6",
+      "player": "P Nissanka",
+      "type": "caught"
+    },
+    {
+      "innings": 1,
+      "ball": "9.3",
+      "player": "KNM Fernando",
+      "type": "lbw"
+    },
+    {
+      "innings": 1,
+      "ball": "9.4",
+      "player": "PHKD Mendis",
+      "type": "caught"
+    },
+    {
+      "innings": 1,
+      "ball": "25.1",
+      "player": "LD Chandimal",
+      "type": "bowled"
+    },
+    {
+      "innings": 1,
+      "ball": "25.5",
+      "player": "BKG Mendis",
+      "type": "caught"
+    },
+    {
+      "innings": 1,
+      "ball": "50.4",
+      "player": "GS Dinusha",
+      "type": "lbw"
+    },
+    {
+      "innings": 1,
+      "ball": "64.4",
+      "player": "DM de Silva",
+      "type": "caught"
+    },
+    {
+      "innings": 1,
+      "ball": "68.1",
+      "player": "RMMP Rathnayake",
+      "type": "bowled"
+    },
+    {
+      "innings": 1,
+      "ball": "70.5",
+      "player": "CAK Rajitha",
+      "type": "caught"
+    },
+    {
+      "innings": 1,
+      "ball": "71.5",
+      "player": "AM Fernando",
+      "type": "caught"
+    },
+    {
+      "innings": 2,
+      "ball": "13.3",
+      "player": "BA King",
+      "type": "caught"
+    },
+    {
+      "innings": 2,
+      "ball": "25.2",
+      "player": "JD Campbell",
+      "type": "caught"
+    },
+    {
+      "innings": 2,
+      "ball": "26.7",
+      "player": "KAR Hodge",
+      "type": "bowled"
+    },
+    {
+      "innings": 2,
+      "ball": "44.6",
+      "player": "J Da Silva",
+      "type": "caught"
+    },
+    {
+      "innings": 2,
+      "ball": "50.1",
+      "player": "JP Greaves",
+      "type": "caught"
+    },
+    {
+      "innings": 2,
+      "ball": "150.3",
+      "player": "AA Jangoo",
+      "type": "caught"
+    },
+    {
+      "innings": 2,
+      "ball": "154.5",
+      "player": "AS Joseph",
+      "type": "caught"
+    },
+    {
+      "innings": 2,
+      "ball": "159.6",
+      "player": "RL Chase",
+      "type": "bowled"
+    },
+    {
+      "innings": 2,
+      "ball": "160.5",
+      "player": "KAJ Roach",
+      "type": "lbw"
+    },
+    {
+      "innings": 3,
+      "ball": "1.1",
+      "player": "P Nissanka",
+      "type": "caught"
+    },
+    {
+      "innings": 3,
+      "ball": "4.4",
+      "player": "KNM Fernando",
+      "type": "lbw"
+    },
+    {
+      "innings": 3,
+      "ball": "5.1",
+      "player": "CAK Rajitha",
+      "type": "caught"
+    },
+    {
+      "innings": 3,
+      "ball": "14.6",
+      "player": "PHKD Mendis",
+      "type": "bowled"
+    },
+    {
+      "innings": 3,
+      "ball": "16.4",
+      "player": "DM de Silva",
+      "type": "lbw"
+    },
+    {
+      "innings": 3,
+      "ball": "21.5",
+      "player": "BKG Mendis",
+      "type": "bowled"
+    },
+    {
+      "innings": 3,
+      "ball": "26.3",
+      "player": "LD Chandimal",
+      "type": "caught"
+    },
+    {
+      "innings": 3,
+      "ball": "26.6",
+      "player": "RMMP Rathnayake",
+      "type": "lbw"
+    },
+    {
+      "innings": 3,
+      "ball": "28.2",
+      "player": "AM Fernando",
+      "type": "bowled"
+    },
+    {
+      "innings": 3,
+      "ball": "31.2",
+      "player": "CBRLS Kumara",
+      "type": "bowled"
+    }
+  ],
+  "ratings": [
+    {
+      "team": "Sri Lanka",
+      "metric": "Batting",
+      "rating": 4.0
+    },
+    {
+      "team": "Sri Lanka",
+      "metric": "Bowling",
+      "rating": 5.0
+    },
+    {
+      "team": "Sri Lanka",
+      "metric": "Field/Control",
+      "rating": 4.0
+    },
+    {
+      "team": "West Indies",
+      "metric": "Batting",
+      "rating": 9.5
+    },
+    {
+      "team": "West Indies",
+      "metric": "Bowling",
+      "rating": 9.0
+    },
+    {
+      "team": "West Indies",
+      "metric": "Control",
+      "rating": 9.0
+    }
+  ]
+}
