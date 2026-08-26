@@ -1,56 +1,30 @@
+# Advanced Cricket Analytics Dashboard — Render/Vercel Ready
 
-# Advanced Cricket Analytics Dashboard
+## Render fix
 
-A production-style starter for an interactive cricket performance platform.
+The previous deployment successfully built all Python packages. It failed only because Render was configured to start:
 
-## Included
+`WI_Vs_SL_first_test_full_match_report.wsgi`
 
-- React + Vite dashboard
-- FastAPI backend
-- Interactive Recharts visualizations
-- Day / session / innings / team / player filters
-- Batting, bowling, partnership and wicket views
-- Team comparison and analyst ratings
-- Excel / CSV upload endpoint
-- PDF export
-- PowerPoint export
-- Render + Vercel deployment structure
-- Initial dataset based on the uploaded West Indies vs Sri Lanka 1st Test report
+That is not the application entry point.
 
-## Run locally
+Use:
 
-### Backend
+**Root Directory:** `backend`
 
-```bash
-cd backend
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# macOS/Linux: source .venv/bin/activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8000
-```
+**Build Command:** `pip install -r requirements.txt`
 
-### Frontend
+**Start Command:** `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
+**Health Check Path:** `/api/health`
 
-Open the Vite URL shown in the terminal.
+The included `render.yaml` already contains these settings.
 
-## Production
+## Vercel
 
-Frontend:
-- Deploy `frontend/` to Vercel.
-- Set `VITE_API_URL` to your Render backend URL.
+Set Vercel Root Directory to `frontend`.
+Build command: `npm run build`
+Output directory: `dist`
 
-Backend:
-- Deploy `backend/` to Render.
-- Build command: `pip install -r requirements.txt`
-- Start command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
-
-## Next upgrade
-
-For true ball-by-ball analytics, add a raw delivery table and ingest a ball-by-ball source. That enables wagon wheels, shot zones, phase strike rate, matchup analysis, over-by-over momentum and DRS/video-linked events.
+After Render is live, add environment variable:
+`VITE_API_URL=https://YOUR-RENDER-SERVICE.onrender.com`
